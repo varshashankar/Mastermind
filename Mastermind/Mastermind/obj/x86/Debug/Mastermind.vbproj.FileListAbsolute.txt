@@ -1,0 +1,10 @@
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\bin\Debug\Mastermind.xml
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\obj\x86\Debug\Mastermind.Form1.resources
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\obj\x86\Debug\Mastermind.Resources.resources
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\obj\x86\Debug\Mastermind.vbproj.GenerateResource.Cache
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\obj\x86\Debug\Mastermind.exe
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\obj\x86\Debug\Mastermind.xml
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\obj\x86\Debug\Mastermind.pdb
+C:\Users\Varsha\Documents\mastermind\Mastermind\Mastermind\obj\x86\Debug\Mastermind.Form2.resources
